@@ -1,6 +1,9 @@
-# [Crebutton](https://reisyun.github.io/crebutton)
+![cover-image](./assets/cover.png)
 
-주어진 컨텐츠를 통해 버튼을 꾸며 최종적으로 CSS 코드로 변환해주는 웹앱
+# Crebutton
 
-[프로토타입 미리보기](https://www.figma.com/file/z4lED1JybffuuLdipjpQl8/Crebutton)
+주어진 콘텐츠로 직접 만든 버튼을 CSS 코드로 작성해 줍니다.
 
+<br/>
+
+[사용해보기](https://yeonvora.github.io/crebutton)

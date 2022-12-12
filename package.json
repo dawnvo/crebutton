@@ -2,8 +2,8 @@
   "name": "crebutton",
   "version": "0.2.0",
   "private": true,
-  "main": "./src/index.js",
-  "homepage": "https://reisyun.github.io/crebutton",
+  "main": "./src/index.jsx",
+  "homepage": "https://yeonvora.github.io/crebutton",
   "dependencies": {
     "lodash-template": "^1.0.0",
     "prop-types": "^15.7.2",
